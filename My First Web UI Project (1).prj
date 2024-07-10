@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-   <description>test</description>
-   <name>Allego Demo test project</name>
+   <description></description>
+   <name>My First Web UI Project (1)</name>
    <tag></tag>
-   <UUID>d2644e72-f143-4e2a-8f90-54504047f0a5</UUID>
+   <UUID>ac17132c-dc21-436b-8d76-c437b233eaaf</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/sanyamittal/Katalon Studio/Allego Demo test project/Allego Demo test project.prj</projectFileLocation>
+   <projectFileLocation>/Users/sanyamittal/Katalon Studio/My First Web UI Project (1)/My First Web UI Project (1).prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

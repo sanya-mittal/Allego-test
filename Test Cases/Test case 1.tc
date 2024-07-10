@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test case 2- allego</name>
+   <name>Test case 1</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>360fc1d2-3356-4cab-8e3e-fecfb8becc75</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b28fb9ed-5eab-41bf-8bbe-a954eee978ac</testCaseGuid>
 </TestCaseEntity>

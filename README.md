@@ -1,2 +1,0 @@
-# Allego-test
-test
