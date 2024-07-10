@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mobile Testing</name>
+   <tag></tag>
+   <elementGuidId>e50142ee-e926-4fc9-b8ac-7c33cca21218</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div[2]/div[2]/div/div/div/div[2]/a[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Mobile Testing  Easily and efficiently test your Android and iOS apps across browsers, devices, and operating systems.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c338a6d-e73f-4bc4-89ec-2807fee86709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content_title</value>
+      <webElementGuid>4574bd82-fc18-4683-b28a-4f868b84b74b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mobile Testing</value>
+      <webElementGuid>98cab56d-3400-49ac-8e8a-413d0d8a41a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header undefined&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_dropdown solutions&quot;]/div[@class=&quot;content_container&quot;]/div[@class=&quot;main_content&quot;]/div[@class=&quot;application_under_test&quot;]/div[@class=&quot;application_list&quot;]/a[@class=&quot;application_item&quot;]/div[@class=&quot;content_col&quot;]/div[@class=&quot;content_title&quot;]</value>
+      <webElementGuid>5cf9b35e-276c-41b1-89ed-b1661ca2a937</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div[2]/div[2]/div/div/div/div[2]/a[3]/div/div</value>
+      <webElementGuid>3bdd4c82-84a8-49ab-8d20-3793370d4a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Testing'])[1]/following::div[3]</value>
+      <webElementGuid>45e11e63-bf46-49bd-9750-ef8fed3efcd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quickly create your tests, debug with advanced tools, and execute across multiple browsers.'])[1]/following::div[5]</value>
+      <webElementGuid>7e74fc93-37a7-4997-bcb4-609712188889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktop Testing'])[1]/preceding::div[2]</value>
+      <webElementGuid>386db936-2588-4ee3-ac53-18389fe8926e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INDUSTRIES'])[1]/preceding::div[5]</value>
+      <webElementGuid>6a602ed5-896c-47a1-9b57-d7c63d7711c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mobile Testing']/parent::*</value>
+      <webElementGuid>eda58fb7-79d7-4cd0-9002-00160a9e7059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/div</value>
+      <webElementGuid>8d5b6afb-857d-45fc-9aed-7f8ac24f5f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mobile Testing' or . = 'Mobile Testing')]</value>
+      <webElementGuid>856aa797-81b2-4b9d-8ebb-e0aaee0f3996</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
