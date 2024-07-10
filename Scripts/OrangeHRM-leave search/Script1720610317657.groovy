@@ -29,6 +29,7 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/input_Admin_oxd-input oxd-input--focus'))
 
+'Desc 1'
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Leave'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/i_From Date_oxd-icon bi-calendar oxd-date-i_f3a9ef'))
